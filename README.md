@@ -9,6 +9,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div align="center">
-  <img src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" />
-  <p>Seu texto aqui</p>
+  <div style="display: flex; align-items: center;">
+    <img src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" style="width: 150px; height: auto;" />
+    <p style="margin-left: 20px;">Seu texto aqui</p>
+  </div>
 </div>
