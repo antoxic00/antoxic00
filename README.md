@@ -10,5 +10,5 @@
 </div>
 <div align="center">
   <img align="left" src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" />
-  <p>Seu texto aqui</p>
+  <p>AAAAHHHHHHHHHHHHHHHHHHHH</p>
 </div>
