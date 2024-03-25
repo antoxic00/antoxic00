@@ -10,4 +10,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-![3h9i](https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9)
+![3h9i](https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9) </div>"estoy cansando chefe"<div>
