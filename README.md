@@ -1,4 +1,6 @@
-<img align="left" height="50" width="50" src="https://github.com/antoxic00/antoxic00/assets/108150990/50b6103b-3054-4810-b863-43c06f36127d" alt="3h9i" /><h1 align="center" class="heading-element" dir="auto">ANTONIO</h1><img align="right" height="50" width="50" src="https://github.com/antoxic00/antoxic00/assets/108150990/50b6103b-3054-4810-b863-43c06f36127d" alt="3h9i" />
+<img align="left" height="50" width="50" src="https://github.com/antoxic00/antoxic00/assets/108150990/50b6103b-3054-4810-b863-43c06f36127d" alt="3h9i" />
+<img align="right" height="50" width="50" src="https://github.com/antoxic00/antoxic00/assets/108150990/50b6103b-3054-4810-b863-43c06f36127d" alt="3h9i" />
+<h1 align="center" class="heading-element" dir="auto">ANTONIO</h1>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoxic00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoxic00&layout=compact&langs_count=7&theme=dark"/>
@@ -11,6 +13,7 @@
 </div>
 <div align="center">
   <img align="left" height="500" width="500" src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" />
-  <p></p>
-</h3>AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHH<h3>
 </div>
+  <h3 align="right"> - AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHH (grito de frustação) <h3>
+</div>
+
