@@ -9,6 +9,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div align="center">
-  <img align="left" height="100" width="100" src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" />
+  <img align="left" height="1000" width="1000" src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" />
   <p>AAAAHHHHHHHHHHHHHHHHHHHH</p>
 </div>
