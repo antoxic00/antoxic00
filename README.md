@@ -14,6 +14,6 @@
 <div align="center">
   <img align="left" height="500" width="500" src="https://github.com/antoxic00/antoxic00/assets/108150990/bcb8dab0-7f85-49ab-bc1f-b53413e7d3e9" alt="3h9i" />
 </div>
-  <h3 align="right"> - AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHH (grito de frustação) <h3>
+  <h3 align="right">AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHH (grito de frustação) <h3>
 </div>
 
